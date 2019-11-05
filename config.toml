@@ -1,0 +1,3 @@
+[iothub]
+broker_address = "127.0.0.1:8787"
+thread_num = 6
